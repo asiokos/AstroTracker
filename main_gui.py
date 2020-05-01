@@ -23,7 +23,7 @@ try:
     def_shutter_speed = IntVar()
     def_shutter_speed.set(30)
     def_radius = IntVar()
-    def_radius.set(200)
+    def_radius.set(192)
     def_error = IntVar()
     def_error.set(10.53486)
 
